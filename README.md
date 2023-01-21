@@ -8,5 +8,3 @@
 
 # Download
 [![Bromite](https://www.bromite.org/bromite.png)](https://github.com/luxysiv/bromite-filters/releases/latest/download/filters.dat)
-
- 
