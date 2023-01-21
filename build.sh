@@ -1,4 +1,4 @@
-aria2c -i list
+wget -i resources-O
 #xargs < resources -P 4 -L 1 wget -O
 echo *.txt | xargs cat > merge-file
 chmod +x ruleset_converter
