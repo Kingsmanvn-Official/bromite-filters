@@ -1,5 +1,5 @@
 sudo apt install curl
-curl -O -i resources 
+curl -i resources 
 #xargs < resources -P 4 -L 1 wget -O
 echo *.txt | xargs cat > merge-file
 chmod +x ruleset_converter
