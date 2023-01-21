@@ -1,7 +1,7 @@
 name: update tool
 on:
   schedule:
-    - cron: "0 0 * * Mon"
+    - cron: "30 23 * * *"
   workflow_dispatch:
 jobs:
   build:
