@@ -1,6 +1,5 @@
-sudo apt install curl
-curl -i resources 
-#xargs < resources -P 4 -L 1 wget -O
+sudo apt install curl 
+xargs < resources -P 4 -L 1 curl -O
 echo *.txt | xargs cat > merge-file
 chmod +x ruleset_converter
 ./ruleset_converter --input_format=filter-list \
