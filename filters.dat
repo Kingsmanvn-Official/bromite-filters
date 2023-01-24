@@ -26639,7 +26639,7 @@ $ÿï08@R/cookies-disclaimer.
 "ÿï08@R/newprivacypolicy.
 ÿï08@R/plugin_cookie/
 $ÿï08@R/plugins/CookieInfo/
-!ÿï08@R/rbicookiepolicy.¥/
+!ÿï08@R/rbicookiepolicy.º/
 ÿï08@R/rtiCookieLaw.
 "ÿï08@R/SetConsentCookie.
 ÿï08@R/warnCookies.
@@ -26684,7 +26684,7 @@ Gÿï08@R7tm.tradetracker.net/public/styles/ttCookieDirective.css
 +ÿï08@Rquantcast.mgr.consensu.org^
 ¸ÿï08@R§audiovision.de,ratgeber-umschulung.de,viel-unterwegs.de,ahorn-camp.de,mmo-sankar.de,der-windows-papst.de#%#//scriptlet("set-constant", "realCookieBanner", "undefined")
 eÿï08@RUforomtb.com#%#//scriptlet('prevent-setTimeout', 'f.parentNode.removeChild(f)', '100')
-È*
+Ý*
 leonberger-kreiszeitung.de*
 lancashiretelegraph.co.uk*
 auto-motor-und-sport.de*
@@ -26712,6 +26712,7 @@ eÿï08@RUforomtb.com#%#//scriptlet('prevent-setTimeout', 'f.parentNode.r
 carmagazine.co.uk*
 channelpartner.de*
 computerfrage.net*
+fussballfieber.de*
 geo-television.de*
 gruenderkueche.de*
 hobbyconsolas.com*
@@ -35593,7 +35594,7 @@ olimpfm.ru*
 (ÿï08@Rgigya.com/*/socialize.js
 3ÿï08@R#panzi.github.io/SocialSharePrivacy/
 iÿï*.
-,google.com! Checksum: U+BO/jwf+CaC3KjhepxPgw08@R)gstatic.com/chrome/webstore/images/share_
+,google.com! Checksum: hvS+ET/kG8qHZ8d/8VGrIg08@R)gstatic.com/chrome/webstore/images/share_
 ¢ÿï08@R‘#%#var AG_onLoad=function(func){if(document.readyState==="complete"||document.readyState==="interactive")func();else if(document.addEventListener)document.addEventListener("DOMContentLoaded",func);else if(document.attachEvent)document.attachEvent("DOMContentLoaded",func)};
 ºÿï08@R©#%#var AG_removeElementById = function(id) { var element = document.getElementById(id); if (element && element.parentNode) { element.parentNode.removeChild(element); }};
 ·ÿï08@R¦#%#var AG_removeElementBySelector = function(selector) { if (!document.querySelectorAll) { return; } var nodes = document.querySelectorAll(selector); if (nodes) { for (var i = 0; i < nodes.length; i++) { if (nodes[i] && nodes[i].parentNode) { nodes[i].parentNode.removeChild(nodes[i]); } } } };
@@ -69360,7 +69361,7 @@ oÿï*
 m.market.yandex.kz*
 m.market.yandex.ru08@Rmc.yandex.ru/metrika/watch.js
 Bÿï*
-	saturn.de08@R%google-analytics.com/plugins/ua/ec.js´$
+	saturn.de08@R%google-analytics.com/plugins/ua/ec.jsá$
 >ÿï*
 	saturn.de08@R!google-analytics.com/analytics.js
 8ÿï*
@@ -69374,6 +69375,10 @@ Bÿï*
 7ÿï*
 
 banki.ru08@Rmc.yandex.ru/metrika/tag.js
+^ÿï*
+gigasport.at*
+gigasport.ch*
+gigasport.de08@Rst-eu.dynamicyield.com/st?sec=
 Fÿï*
 pointmall.rakuten.co.jp08@Rgoogletagmanager.com/gtm.js
 Gÿï08@R7aachener-zeitung.de/cre-1.0/tracking/call.js?serviceid=
@@ -69505,9 +69510,9 @@ Eÿï*
 >ÿï*
 	artage.io08@R!google-analytics.com/analytics.js
 6ÿï*	
-zozo.jp08@Rgoogletagmanager.com/gtm.js
+zozo.jp08@Rgoogletagmanager.com/gtm.jsß 
 1ÿï*	
-zozo.jp08@Rkarte.io/libs/tracker.æ 
+zozo.jp08@Rkarte.io/libs/tracker.
 @ÿï*
 
 6play.fr08@R$partner-api.sddan.com/api/*/segment-
@@ -69642,9 +69647,9 @@ Oÿï*
 >ÿï*
 hepsiburada.com08@Rgoogletagmanager.com/gtm.js
 =*
-demae-can.com08@Rd.line-scdn.net^*/torimochi.js
+demae-can.com08@Rd.line-scdn.net^*/torimochi.js×!
 8ÿï*
-	jalan.net08@Rgoogletagmanager.com/gtm.jsá!
+	jalan.net08@Rgoogletagmanager.com/gtm.js
 ?ÿï*
 nihontsushin.com08@Rgoogletagmanager.com/gtm.js
 @ÿï*
@@ -69788,9 +69793,9 @@ Aÿï*
 Fÿï*
 
 nike.com08@R*cdn.optimizely.com/datafiles/*.json/tag.js
-Zÿï08@RJuserstyles.org#%#//scriptlet("set-constant", "poptin_display", "noopFunc")
+Zÿï08@RJuserstyles.org#%#//scriptlet("set-constant", "poptin_display", "noopFunc")¨%
 Bÿï*
-managertoday.com.tw08@Rgoogletagmanager.com/gtm.js¢%
+managertoday.com.tw08@Rgoogletagmanager.com/gtm.js
 Iÿï*
 security-demo.extrahop.com08@Rgoogletagmanager.com/gtm.js
 Nÿï08@R>extrahop.com#%#//scriptlet('prevent-setTimeout', 'ad blocker')
@@ -69933,9 +69938,9 @@ M*
 _ÿï08@ROjolie.de/sites/default/files/google_tag/google_tag_manager/google_tag.script.js
 jÿï08@RZmaedchen.de/sites/default/files/google_tag/google_tag_manager_fuersie/google_tag.script.js
 ?ÿï*
-oresundsbron.com08@Rgoogletagmanager.com/gtm.js
+oresundsbron.com08@Rgoogletagmanager.com/gtm.jsÀ 
 <ÿï*	
-cmoa.jp08@R!google-analytics.com/analytics.js¿ 
+cmoa.jp08@R!google-analytics.com/analytics.js
 5*
 comics.mecha.cc08@Rcdn.petametrics.com^
 7$*
@@ -70059,9 +70064,9 @@ Aÿï*
 mangaseek.net08@Rgoogletagmanager.com/gtm.js
 :ÿï*
 fortune.com08@Rgoogletagmanager.com/gtm.js
-Aÿï08@R1twowheeler.policybazaar.com/js/googleanalytics.js
+Aÿï08@R1twowheeler.policybazaar.com/js/googleanalytics.jsµ!
 ;ÿï*
-dholic.co.jp08@Rgoogletagmanager.com/gtm.jsÆ!
+dholic.co.jp08@Rgoogletagmanager.com/gtm.js
 <ÿï*
 dholic.co.jp08@Rgoogletagmanager.com/gtag/js
 5ÿï*
@@ -70191,9 +70196,9 @@ Mÿï*
 9*
 girlsnews.tv08@Rgoogletagmanager.com/gtm.js
 &ÿï08@Rparma.am/js/counter.js
-jÿï08@RZwoman.excite.co.jp#%#//scriptlet('remove-attr', 'data-woman-ex', 'a[href][data-woman-ex]')
+jÿï08@RZwoman.excite.co.jp#%#//scriptlet('remove-attr', 'data-woman-ex', 'a[href][data-woman-ex]')ë"
 Lÿï*
-learning.edx.org08@R(js.appboycdn.com/web-sdk/*/appboy.min.jsÖ"
+learning.edx.org08@R(js.appboycdn.com/web-sdk/*/appboy.min.js
 Vÿï*
 learning.edx.org08@R2cdn.segment.com/analytics.js/v*/*/analytics.min.js
 5ÿï*
@@ -70337,9 +70342,9 @@ Oÿï*
 pttavm.com08@Rcdn.segmentify.com^
 5ÿï*
 
-pttavm.com08@Rgandalf.segmentify.com^
+pttavm.com08@Rgandalf.segmentify.com^Ý
 7ÿï*
-hotelforex.com08@Rjsonip.com/?callback=ä
+hotelforex.com08@Rjsonip.com/?callback=
 <ÿï*	
 viu.com08@R!google-analytics.com/analytics.js
 6ÿï*	
@@ -70472,9 +70477,9 @@ Kÿï*
 watch.impress.co.jp08@R$dev.visualwebsiteoptimizer.com/v.gif
 D *
 thestreet.com*
-mtonews.com08@Ruid.mavencoalition.io^
+mtonews.com08@Ruid.mavencoalition.io^²!
 >ÿï*
-runlesswire.com08@Rgoogletagmanager.com/gtm.jsÂ!
+runlesswire.com08@Rgoogletagmanager.com/gtm.js
 \ÿï*
 kaspersky.ru08@R<media.kaspersky.com/tracking/omniture/s_code_single_suite.js
 Fÿï*
@@ -70613,9 +70618,9 @@ Iÿï*
 Bÿï*
 	askona.ru08@R%google-analytics.com/plugins/ua/ec.js
 Fÿï*
-	askona.ru08@R)google-analytics.com/plugins/ua/linkid.js
+	askona.ru08@R)google-analytics.com/plugins/ua/linkid.jsÅ!
 Nÿï*
-html5.gamedistribution.com08@R tags.crwdcntrl.net/c/*/cc.js?ns=¼!
+html5.gamedistribution.com08@R tags.crwdcntrl.net/c/*/cc.js?ns=
 Bÿï*
 overwatchleague.com08@Rgoogletagmanager.com/gtm.js
 Uÿï*
@@ -70750,9 +70755,9 @@ Aÿï*
 ;ÿï*
 displate.com08@Rgoogletagmanager.com/gtm.js
 Aÿï*
-displate.com08@R!google-analytics.com/analytics.js
+displate.com08@R!google-analytics.com/analytics.js»(
 Eÿï*
-displate.com08@R%google-analytics.com/plugins/ua/ec.js³(
+displate.com08@R%google-analytics.com/plugins/ua/ec.js
 Lÿï*
 displate.com08@R,google-analytics.com/plugins/ua/ecommerce.js
 âÿï*
@@ -70923,9 +70928,9 @@ Lÿï*
 
 wibc.com08@Rgoogletagmanager.com/gtm.js
 <ÿï*
-ads.allegro.pl08@Rngastatic.com/*/tracker.js
+ads.allegro.pl08@Rngastatic.com/*/tracker.jsê$
 =ÿï*
-ads.allegro.pl08@Rgoogletagmanager.com/gtm.jsÓ$
+ads.allegro.pl08@Rgoogletagmanager.com/gtm.js
 ?ÿï*
 info.lifecell.ua08@Rgoogletagmanager.com/gtm.js
 Bÿï*
@@ -71083,8 +71088,8 @@ Vÿï*
 ;ÿï*
 haz.de08@R!google-analytics.com/analytics.js
 9ÿï*
-haz.de08@Rgoogle-analytics.com/gtm/js?id=
-&ÿï08@Rups.com/*/tracking.cgi“ 
+haz.de08@Rgoogle-analytics.com/gtm/js?id=þ
+&ÿï08@Rups.com/*/tracking.cgi
 Oÿï*
 surfline.com08@R/cdn.segment.com/analytics.js/*/analytics.min.js
 =ÿï08@R-smp.sankei.co.jp/js/analytics/skd.Analysis.js
@@ -71213,9 +71218,9 @@ Dÿï*
 08@Rmarketo.com//js/forms
 "
 08@Rmarketo.com/js/forms
-+ÿï08@Rmarketo.com/index.php/form/
++ÿï08@Rmarketo.com/index.php/form/À!
 ;ÿï*
-	gmail.com08@Rssl.google-analytics.com/ga.js¹!
+	gmail.com08@Rssl.google-analytics.com/ga.js
 eÿï*
 elconfidencial.com*
 crunchyroll.com08@R,cdn.amplitude.com/libs/amplitude-*-min.gz.js
@@ -71341,9 +71346,9 @@ Cÿï*
 Dÿï*
 vitalsource.com08@R!collect.igodigital.com/collect.js
 @ÿï*
-crunchyroll.com08@Rcdn.segment.com/analytics.js^
+crunchyroll.com08@Rcdn.segment.com/analytics.js^‹$
 4ÿï*
-pingfarm.com08@Rpingomatic.com/ping^š$
+pingfarm.com08@Rpingomatic.com/ping^
 4ÿï*	
 wsj.com08@Rscdn.cxense.com/cx.cce.js
 Bÿï*	
@@ -71491,9 +71496,9 @@ Hÿï*
 <ÿï*
 pagtel.com.br08@Rjsonip.com/?callback=jQuery
 =ÿï*
-tv3play.tv3.ee08@Ree.hit.gemius.pl/gplayer.js
+tv3play.tv3.ee08@Ree.hit.gemius.pl/gplayer.js"
 Cÿï*
-tv3play.tv3.ee08@R!google-analytics.com/analytics.js—"
+tv3play.tv3.ee08@R!google-analytics.com/analytics.js
 =ÿï*
 justsystems.com08@Rgoogle-analytics.com/ga.js
 9ÿï*
@@ -71624,10 +71629,10 @@ Cÿï*
 Oÿï*
 elconfidencial.com08@R)cloudfront.net/libs/amplitude-*-min.gz.js
 Eÿï*
-twe.no08@R+cdn.mxpnl.com/libs/mixpanel-2-latest.min.js
+twe.no08@R+cdn.mxpnl.com/libs/mixpanel-2-latest.min.jsá
 =ÿï*
 
-ndtv.com08@R!google-analytics.com/analytics.jsÞ
+ndtv.com08@R!google-analytics.com/analytics.js
 5ÿï*
 itmedia.co.jp08@Rcdn.cxense.com/cx.js
 -ÿï*
@@ -71759,9 +71764,9 @@ Bÿï*
 Aÿï*
 vseinstrumenti.ru08@Rgoogletagmanager.com/gtm.js?
 5ÿï*
-userstyles.org08@Rfreegeoip.net/json/
+userstyles.org08@Rfreegeoip.net/json/î#
 :ÿï*
-rt.ru08@R!google-analytics.com/analytics.jsŒ$
+rt.ru08@R!google-analytics.com/analytics.js
 Sÿï*
 androidpit.es*
 androidpit.fr08@R!google-analytics.com/analytics.js
@@ -71909,11 +71914,11 @@ O *
 medicare.gov08@Rethn.io/*.js
 ,ÿï08@Rsstats.omahasteaks.com/b/ss/
 Aÿï*"
- pioclpoplcdbaefihamjohnefbikjilc08@Revernote.com^
+ pioclpoplcdbaefihamjohnefbikjilc08@Revernote.com^¼$
 X*
 dailystar.co.uk*
 nydailynews.com*
-express.co.uk08@Rstatic.parsely.com^˜$
+express.co.uk08@Rstatic.parsely.com^
 Zÿï*
 video.foxbusiness.com*
 video.foxnews.com08@Rcdn.krxd.net/controltag/*.js
@@ -72064,8 +72069,8 @@ Bÿï*
 mediamarkt.de08@R!google-analytics.com/analytics.js
 Fÿï*
 mediamarkt.de08@R%google-analytics.com/plugins/ua/ec.js
-4ÿï08@R$vidible.tv^*/ComScore.StreamSense.js
-4ÿï08@R$vidible.tv^*/ComScore.Viewability.js’"
+4ÿï08@R$vidible.tv^*/ComScore.StreamSense.jsî!
+4ÿï08@R$vidible.tv^*/ComScore.Viewability.js
 9ÿï*
 pixel.facebook.com08@Rpixel.facebook.com^
 O08@RApixel.facebook.com/ajax/gigaboxx/endpoint/UpdateLastSeenTime.php?
@@ -72217,13 +72222,13 @@ Eÿï*
 4ÿï*
 gamespot.com08@Rdw.cbsi.com/anonc.js
 Jÿï*
-gamespot.com08@R*gamespot.com/js/compiled/trackingWithCT.js
+gamespot.com08@R*gamespot.com/js/compiled/trackingWithCT.jsž.
 Xÿï*
 gamespot.com*
 cbsnews.com*
 
 cnet.com*
-tv.com08@Rdw.com.com/js/dw.js.
+tv.com08@Rdw.com.com/js/dw.js
 Lÿï*
 	ulmart.ru08@R/googleadservices.com/pagead/conversion_async.js
 :ÿï*
@@ -72501,12 +72506,12 @@ Mÿï*
 food.com08@R1adobetag.com/d1/ewscripps/live/SNIFoodCategory.js
 Pÿï*
 1saleaday.com08@R/adobetag.com/d1/octagoncommerce/live/metrics.js
-#08@Radobetag.com^*/amc.js
+#08@Radobetag.com^*/amc.jsÜ
 Wÿï*
 seattlepi.com*
 
 hbf.com.au*
-tv.com08@Radobetag.com^*/sitecatalyst.jsä
+tv.com08@Radobetag.com^*/sitecatalyst.js
 Dÿï*
 playstation.com08@R!adobetag.com^*/sitecatalystnew.js
 3ÿï*
@@ -72609,9 +72614,9 @@ C08@R5computerworld.com/resources/scripts/lib/demandbase.js
 acehardware.com08@Rcsdata1.com/data/js/
 P08@RBcsid.com/wp-content/plugins/bwp-minify/min/?*/google-analyticator/
 .ÿï08@Rcsoonline.com/js/demandbase.js
->ÿï08@R.ctv.ca/players/mediaplayer/*/comscorebeacon.js
+>ÿï08@R.ctv.ca/players/mediaplayer/*/comscorebeacon.js– 
 _ÿï*
-architizer.com08@R=d2dq2ahtl5zl1z.cloudfront.net/analytics.js/*/analytics.min.jsä!
+architizer.com08@R=d2dq2ahtl5zl1z.cloudfront.net/analytics.js/*/analytics.min.js
 dÿï*
 washingtonpost.com08@R>d2pe20ur0h0p8p.cloudfront.net/identity/*/wapo_identity_full.js
 bÿï*
@@ -72720,7 +72725,7 @@ pÿï08@R`hhgregg.com/wcsstore/MadisonsStorefrontAssetStore/javascript/An
 
 sbs.com.au08@R imrworldwide.com/crossdomain.xml
 Aÿï*
-europafm.com08@R!imrworldwide.com/novms/*/ggcm*.js
+europafm.com08@R!imrworldwide.com/novms/*/ggcm*.jsŽ!
 ¬ÿï*
 quotidianodipuglia.it*
 realestateview.com.au*
@@ -72736,7 +72741,7 @@ Aÿï*
 
 leggo.it*	
 last.fm*
-sf.se08@Rimrworldwide.com/v60.js£
+sf.se08@Rimrworldwide.com/v60.js
 Fÿï*
 au.launch.yahoo.com08@Rimrworldwide.com^*-mediaplayer&
 1ÿï08@R!imrworldwide.com^*/flashdetect.js
@@ -72853,8 +72858,8 @@ Wÿï*
 5ÿï08@R%nationwide.co.uk/_/js/webAnalytics.js
 &ÿï08@Rncbi.nlm.nih.gov/stat?
 eÿï*
-homepath.com08@REnetdna-ssl.com/lib/jquery-google-analytics/jquery.google-analytics.js
-Bÿï08@R2netinsight.travelers.com/scripts/ntpagetaghttps.jsœ%
+homepath.com08@REnetdna-ssl.com/lib/jquery-google-analytics/jquery.google-analytics.js£%
+Bÿï08@R2netinsight.travelers.com/scripts/ntpagetaghttps.js
 0ÿï08@R networkworld.com^*/demandbase.js
 Oÿï*
 
@@ -73022,8 +73027,8 @@ lenovo.com08@Rsundaysky.com/sundaysky.js?
 Bÿï*
 
 lenovo.com08@R$sundaysky.com^*/default/sundaysky.js
-9ÿï08@R)support.thesslstore.com/visitor/index.php
-;ÿï08@R+tablespoon.com/library/js/TBSP_ntpagetag.jsŸ
+9ÿï08@R)support.thesslstore.com/visitor/index.phpª
+;ÿï08@R+tablespoon.com/library/js/TBSP_ntpagetag.js
 ?ÿï*
 	asana.com08@R"tag.perfectaudience.com/serve/*.js
 9€*
@@ -73121,8 +73126,8 @@ Uÿï*
 zillow.com08@R!zillowstatic.com/c/*/linktrack.js
 Gÿï08@R7zylom.com/images/site/zylom/scripts/google-analytics.js
 Hÿï*
-apps.facebook.com08@R#zynga.com/current/iframe/track.php?
-0ÿï08@R beacon.guim.co.uk/accept-beacon?Ä
+apps.facebook.com08@R#zynga.com/current/iframe/track.php?Ë
+0ÿï08@R beacon.guim.co.uk/accept-beacon?
 .*
 espn.com.br08@R112.2o7.net/b/ss/
 „*
@@ -73252,8 +73257,8 @@ Iÿï*
 5ÿï*
 t-online.de08@Rpix04.revsci.net^*.js?
 )ÿï08@Rraiffeisen.at^*/Logger.js
->ÿï08@R.real.de/fileadmin/template/javascript/emos2.js
-)ÿï08@Rrenault.de/js/sitestat.jsÀ
+>ÿï08@R.real.de/fileadmin/template/javascript/emos2.js¾
+)ÿï08@Rrenault.de/js/sitestat.js
 8ÿï08@R(rollingstone.de/resources/js/webtrekk.js
 [*
 millionenklick.web.de08@R4rover.ebay.com/ar/1/75997/4?mpt=*&size=300x250&adid=
@@ -73358,8 +73363,8 @@ Dÿï08@R4vpro.nl/vpro/htmlplayer/0.3-snapshot/statcounter.js?
 megatv.com08@Rstats.e-go.gr/rx.asp?
 3 08@R%haaretz.co.il/logger/p.gif?*=COMMENTS
 1 08@R#haaretz.com/logger/p.gif?*=COMMENTS
-3 08@R%themarker.com/logger/p.gif?*=COMMENTS
-+08@Rthemarker.com/logger/p.gif?a=©$
+3 08@R%themarker.com/logger/p.gif?*=COMMENTS£#
++08@Rthemarker.com/logger/p.gif?a=
 Aÿï08@R1beppegrillo.it/mt-static/js/ga_social_tracking.js
 `*
 panorama.it08@RCcodicebusiness.shinystat.com/cgi-bin/getcod.cgi?USER=panoramait&P=2
@@ -73448,5 +73453,5 @@ Bÿï08@R2visit.digidip.net^$removeparam=/^(ppref|ref|pid)=/
 4ÿï08@R$ad.admitad.com^$removeparam=/^subid/
 <ÿï08@R,mvideo.ru^$removeparam=/^(_requestid|reff)=/
 8ÿï08@R(flipkart.com^$removeparam=/^affExtParam/
-5ÿï08@R%flipkart.com^$removeparam=/^otracker/
+5ÿï08@R%flipkart.com^$removeparam=/^otracker/³
 °ÿï08@RŸdaraz.*$removeparam=/spm=|scm=|from=|keyori=|sugg=|search=|mp=|c=|^abtest|^abbucket|pos=|themeID=|algArgs=|clickTrackInfo=|acm=|item_id=|version=|up_id=|pvid=/
