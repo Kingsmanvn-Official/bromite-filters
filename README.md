@@ -7,4 +7,4 @@
 
 
 # Download
-[![Bromite](https://www.bromite.org/bromite.png)](https://github.com/luxysiv/bromite-filters/releases/latest/download/filters.dat)
+[![Release](https://img.shields.io/github/v/release/luxysiv/bromite-filters.svg)](https://github.com/luxysiv/bromite-filters/releases/latest/download/filters.dat)
