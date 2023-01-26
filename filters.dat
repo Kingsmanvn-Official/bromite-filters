@@ -34066,7 +34066,7 @@ gÿï*
 
 demek.ru08@Rfunding.webmoney.ru/widgets/
 ]*3
-1langoguessr.com! Checksum: S1BCorCBpYGQQ039z/HQBA08@Rbuymeacoffee.com/*/widget.
+1langoguessr.com! Checksum: J5N+AOmQ2nkvVEwL//YNAQ08@Rbuymeacoffee.com/*/widget.
 ¢ÿï08@R‘#%#var AG_onLoad=function(func){if(document.readyState==="complete"||document.readyState==="interactive")func();else if(document.addEventListener)document.addEventListener("DOMContentLoaded",func);else if(document.attachEvent)document.attachEvent("DOMContentLoaded",func)};
 ºÿï08@R©#%#var AG_removeElementById = function(id) { var element = document.getElementById(id); if (element && element.parentNode) { element.parentNode.removeChild(element); }};
 ·ÿï08@R¦#%#var AG_removeElementBySelector = function(selector) { if (!document.querySelectorAll) { return; } var nodes = document.querySelectorAll(selector); if (nodes) { for (var i = 0; i < nodes.length; i++) { if (nodes[i] && nodes[i].parentNode) { nodes[i].parentNode.removeChild(nodes[i]); } } } };
@@ -34835,7 +34835,7 @@ Jÿï08@R:kkbox.com#%#//scriptlet('hide-in-shadow-dom', 'share-box')
 Õÿï08@RÄbrestcity.com#%#AG_onLoad(function() { document.body.innerHTML = document.body.innerHTML.replace(/\sÐŸÐ¾Ð½Ñ€Ð°Ð²Ð¸Ð»Ð°ÑÑŒ Ð½Ð¾Ð²Ð¾ÑÑ‚ÑŒ\?\sÐŸÐ¾Ð´ÐµÐ»Ð¸Ñ‚ÐµÑÑŒ\sÑ\sÐ´Ñ€ÑƒÐ·ÑŒÑÐ¼Ð¸:/g, ""); });
 ­ÿï08@Rœarchive.org#%#AG_onLoad(function() { var el = document.querySelector('.js-playset-items'); if(el) { el.innerHTML = el.innerHTML.replace(/ Share/g,''); } });
 ˆÿï08@Rxklubjagiellonski.pl#%#//scriptlet('remove-attr', 'href|onclick', 'a[href^="http://twitter.com/intent/tweet?"][onclick]')
-^ÿï08@RNkp.ru#%#//scriptlet('remove-in-shadow-dom', 'span[class^="styled__ShareAmp"]')¼N
+^ÿï08@RNkp.ru#%#//scriptlet('remove-in-shadow-dom', 'span[class^="styled__ShareAmp"]')©N
 ]ÿï08@RMzoomtventertainment.com#%#//scriptlet('hide-in-shadow-dom', '._share_social')
 °ÿï08@RŸgorodkiev.com.ua#%#AG_onLoad(() => {const a = document.querySelector('.commentsfacebook');const b = a?.firstElementChild?.previousSibling;if (b) b.remove();});
 [ÿï08@RKfinance.rambler.ru#%#//scriptlet('hide-in-shadow-dom', 'body > div.social')
@@ -34855,7 +34855,7 @@ Fÿï08@R6minprom.ua#%#document.cookie = "popup_user_login=yes";
 Hÿï08@R8takprosto.cc#%#document.cookie = "popup_displayed=true";
 Pÿï08@R@0lik.ru$replace=/locker:{\s+timer:\s'\d\d'/locker: { timer: '1'/
 zÿï08@Rjmp.lura.live/player/prod/v*/*/anvhtml5.css$replace=/(\.anv-splash-share \{)/\$1 display: none !important;/
-–"ÿï*
+ƒ"ÿï*
 xn----8sbcm1bmcar0m.xn--p1ai*
 nationalcrimeagency.gov.uk*
 blog.naverblogwidget.com*
@@ -34946,7 +34946,6 @@ zÿï08@Rjmp.lura.live/player/prod/v*/*/anvhtml5.css$replace=/(\.anv-spla
 cwbaltimore.com*
 daemonanime.net*
 desimartini.com*
-diariobasta.com*
 downdetector.in*
 downdetector.jp*
 efelerhaber.com*
