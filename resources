@@ -7,6 +7,7 @@ abpvn-mod.txt 'https://github.com/luxysiv/custom-ads-filters/raw/main/abpvn-ext.
 AdGuard-Mobile-Ads.txt 'https://filters.adtidy.org/extension/ublock/filters/11_optimized.txt'
 Anti-popads.txt 'https://github.com/Yhonay/antipopads/raw/master/popads.txt'
 
+privacy_extended.txt 'https://raw.githubusercontent.com/stephenhawk8054/PrivacyExtended/main/privacy_extended.txt'
 AnnoyancesFilter-Popups-antiadblock.txt 'https://github.com/AdguardTeam/AdguardFilters/raw/master/AnnoyancesFilter/Popups/sections/antiadblock.txt'
 AnnoyancesFilter-MobileApp-mobile-app_specific.txt 'https://github.com/AdguardTeam/AdguardFilters/raw/master/AnnoyancesFilter/MobileApp/sections/mobile-app_specific.txt'
 AnnoyancesFilter-Other-annoyances.txt 'https://github.com/AdguardTeam/AdguardFilters/raw/master/AnnoyancesFilter/Other/sections/annoyances.txt'
