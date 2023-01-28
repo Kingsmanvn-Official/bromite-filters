@@ -4,7 +4,6 @@ social.txt 'https://filters.adtidy.org/android/filters/4_optimized.txt'
 annoyances.txt 'https://filters.adtidy.org/android/filters/14_optimized.txt'
 tracking.txt 'https://filters.adtidy.org/android/filters/17_optimized.txt'
 abpvn-mod.txt 'https://github.com/luxysiv/custom-ads-filters/raw/main/abpvn-ext.txt'
-AdGuard-Tracking-Protection.txt 'https://filters.adtidy.org/extension/ublock/filters/3_optimized.txt'
 AdGuard-Mobile-Ads.txt 'https://filters.adtidy.org/extension/ublock/filters/11_optimized.txt'
 Anti-popads.txt 'https://github.com/Yhonay/antipopads/raw/master/popads.txt'
 
